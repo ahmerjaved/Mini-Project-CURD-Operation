@@ -1,0 +1,42 @@
+.head {
+    display: inline-block;
+    background-color: black;
+    width: 100%;
+    text-align: center;
+    height: 80px;
+    align-items: center;
+    /* position: fixed; */
+    
+
+}
+
+.nav-bar {
+    display: inline-block;
+    background: rgba(58, 58, 58, 0.562);
+    width: 100%;
+    text-align: left;
+    height: 2s0px;
+    align-items: left;
+}
+
+.navbar-items {
+    margin-left: 10px;
+    display: inline-block;
+    font-size: medium;
+    color: azure;
+    
+
+}
+
+.navbar-items  :hover {
+    color: black;
+
+}
+a:hover {
+    color: black;
+}
+
+h1 {
+    color: aliceblue;
+    
+ }
